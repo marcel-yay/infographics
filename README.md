@@ -6,4 +6,4 @@ npm install
 npm start &
 cd ../frontend
 # Assuming you want to serve the frontend on a simple HTTP server
-npx http-server . -p 8000 &
+npx http-server . -p 8000 &# infographics
