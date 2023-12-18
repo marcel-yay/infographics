@@ -64,7 +64,7 @@ async function crawlWebsite(url, maxWords = 800) {
 // Function to send data to OpenAI API
 async function sendToOpenAI(data) {
     try {
-        const openaiApiKey = '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'; // Replace with your OpenAI API key
+        const openaiApiKey = 'XXX'; // Replace with your OpenAI API key
         const apiUrl = 'https://api.openai.com/v1/completions';
         const model = 'gpt-3.5-turbo-instruct'
 
